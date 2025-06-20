@@ -22,12 +22,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ### Links
 
 - Solution URL: [GitHub](https://github.com/rizkicaandra/testimonials-grid-section)
-- Live Site URL: [Live Demo](https://simple-product-preview-component.netlify.app/)
+- Live Site URL: [Live Demo](https://regal-starship-527c1c.netlify.app/)
 
 ## My process
 
